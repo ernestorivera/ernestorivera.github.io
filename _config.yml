@@ -1,13 +1,7 @@
 # Site settings
-<<<<<<< HEAD
 title:       Pixyll
 email:       your_email@example.com
 author:      John Otander
-=======
-title:       Ernesto Rivera
-email:       ernestoriverao@gmail.com
-author:      Ernesto Rivera
->>>>>>> 9974bdbcc808f2f752340203fd4bb514185620af
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
 url:         "https://pixyll.com"
