@@ -2,7 +2,7 @@
 title:       Ernesto Rivera
 email:       ernestoriverao@gmail.com
 author:      Ernesto Rivera
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description:
 baseurl:     ""
 url:         "https://ernestorivera.com"
 date_format: "%b %-d, %Y"
