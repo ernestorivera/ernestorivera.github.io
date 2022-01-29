@@ -1,7 +1,13 @@
 # Site settings
+<<<<<<< HEAD
 title:       Pixyll
 email:       your_email@example.com
 author:      John Otander
+=======
+title:       Ernesto Rivera
+email:       ernestoriverao@gmail.com
+author:      Ernesto Rivera
+>>>>>>> 9974bdbcc808f2f752340203fd4bb514185620af
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
 url:         "https://pixyll.com"
@@ -100,14 +106,30 @@ text:
     coming_soon: 'Coming soon...'
   contact:
     email:    'Email Address'
+<<<<<<< HEAD
     content:  'What would you like to say?'
+=======
+<<<<<<< HEAD
+    content:  'What's up'?'
+=======
+    content:  'What would you like to say?'
+>>>>>>> parent of 8a74f20 (commit)
+>>>>>>> 9974bdbcc808f2f752340203fd4bb514185620af
     subject:  'New submission!'
     submit:   'Say Hello'
     ajax:
       sending:  'sending..'
       sent:     'Message sent!'
       error:    'Error!'
+<<<<<<< HEAD
   thanks: 'Thanks for contacting us. We will reply as soon as possible.'
+=======
+<<<<<<< HEAD
+  thanks: 'Thanks for contacting me. I'll get back to you shortly.'
+=======
+  thanks: 'Thanks for contacting us. We will reply as soon as possible.'
+>>>>>>> parent of 8a74f20 (commit)
+>>>>>>> 9974bdbcc808f2f752340203fd4bb514185620af
   og_locale: 'en_US'
 
 # Build settings
