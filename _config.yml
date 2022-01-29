@@ -100,14 +100,14 @@ text:
     coming_soon: 'Coming soon...'
   contact:
     email:    'Email Address'
-    content:  'What's up?'
+    content:  'What's up'?'
     subject:  'New submission!'
-    submit:   'Say Hello'
+    submit:   'Send'
     ajax:
       sending:  'sending..'
       sent:     'Message sent!'
       error:    'Error!'
-  thanks: 'Thanks for contacting me. I'll get back to you soon'
+  thanks: 'Thanks for contacting me. I'll get back to you shortly.'
   og_locale: 'en_US'
 
 # Build settings
