@@ -2,7 +2,7 @@
 title:       Ernesto Rivera
 email:       ernestoriverao@gmail.com
 author:      Ernesto Rivera
-description: 
+description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
 url:         "https://ernestorivera.com"
 date_format: "%b %-d, %Y"
@@ -38,7 +38,7 @@ fb_page_id:
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname: ernestorivera-com
+disqus_shortname:
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
@@ -51,11 +51,11 @@ github_username:
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
-twitter_username: ernestoorivera
+twitter_username:
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username: ernestoorivera
+linkedin_username:
 angellist_username:
 medium_id:
 bitcoin_url:
@@ -100,14 +100,22 @@ text:
     coming_soon: 'Coming soon...'
   contact:
     email:    'Email Address'
+<<<<<<< HEAD
     content:  'What's up'?'
+=======
+    content:  'What would you like to say?'
+>>>>>>> parent of 8a74f20 (commit)
     subject:  'New submission!'
     submit:   'Send'
     ajax:
       sending:  'sending..'
       sent:     'Message sent!'
       error:    'Error!'
+<<<<<<< HEAD
   thanks: 'Thanks for contacting me. I'll get back to you shortly.'
+=======
+  thanks: 'Thanks for contacting us. We will reply as soon as possible.'
+>>>>>>> parent of 8a74f20 (commit)
   og_locale: 'en_US'
 
 # Build settings
