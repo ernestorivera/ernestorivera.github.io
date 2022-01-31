@@ -5,6 +5,8 @@ permalink: /about/
 tags: about
 ---
 
+<!-- ![me](/images/headshot.jpg) -->
+
 I live in Atlanta. I grew up in Miami as a proud Cuban American immigrant. I'm a black belt in Brazilian Jiu Jitsu, and an avid (read: mediocre) climber.
 
 Currently, Treasury for [UPS](https://www.ups.com/us/en/Home.page).
