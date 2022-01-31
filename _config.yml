@@ -100,9 +100,9 @@ text:
     coming_soon: 'Coming soon...'
   contact:
     email:    'Email Address'
-    content:  'What would you like to say?'
+    content:  'Whats up?'
     subject:  'New submission!'
-    submit:   'Say Hello'
+    submit:   'Send'
     ajax:
       sending:  'sending..'
       sent:     'Message sent!'
