@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Margin of Victory Matters
-date:       2021-07-10 12:31:19
+date:       2020-07-11 12:31:19
 summary:    At least in sport.
 categories: blog
 ---
@@ -18,9 +18,9 @@ Wherever the scoring system is such that one point, or goal, or second can dicta
 
 I think I meant that in sports where a goal is enough to win, added stakes have to come from some other external factor.
 
-  What is the minimum margin of victory in mixed martial arts? Surely it's a fight where a decision determines the outcome?
+What is the minimum margin of victory in mixed martial arts? Surely it's a fight where a decision determines the outcome?
 
-  No fan tunes in to watch the minimum margin of victory in mixed martial arts. This can be said without hyperbole.
+No fan tunes in to watch the minimum margin of victory in mixed martial arts. This can be said without hyperbole.
 
 ---
 
