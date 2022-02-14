@@ -2,7 +2,7 @@
 layout:     post
 title:      Pusha T Has the Best Opening Lines in Rap
 date:       2018-04-20 12:31:19
-summary:    
+summary:    Nowhere does he make a better first impression than at the outset of his songs.
 categories: blog
 ---
 
