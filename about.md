@@ -5,7 +5,7 @@ permalink: /about/
 tags: about
 ---
 
-![me](/images/headshot.jpg){: .about-image}
+![me](/images/me.jpg){: .about-image}
 
 I currently live in Atlanta. I grew up in Miami as a proud Cuban American immigrant. I'm a black belt in Brazilian Jiu Jitsu, and an avid (read: mediocre) climber.
 
