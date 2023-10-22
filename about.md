@@ -7,7 +7,7 @@ tags: about
 
 ![me](/images/me.jpg){: .about-image}
 
-Currently based in Atlanta. I grew up in Miami as a proud Cuban American immigrant. I'm a black belt in Brazilian Jiu Jitsu, and an avid (read: mediocre) climber.
+Currently based in Atlanta. I grew up in Miami as a proud Cuban American immigrant. I'm a black belt in Brazilian Jiu Jitsu, and active competitor.
 
 Currently, Treasury for [UPS](https://www.ups.com/us/en/Home.page).
 
@@ -16,5 +16,3 @@ Currently, Treasury for [UPS](https://www.ups.com/us/en/Home.page).
 [Email](mailto:ernestoriverao@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/ernestoorivera)
-
-[Instagram](https://www.instagram.com/ernestoorivera/)
